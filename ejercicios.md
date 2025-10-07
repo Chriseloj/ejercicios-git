@@ -1,8 +1,8 @@
 # Ejercicios de Git + Retos de programación
 
 ## 1.Muévete por los directorios de tu sistema
-- Selecciona la carpeta en la que creaste tu archivo Hola Mundo, (Python, JavaScript),
-- Comprueba que estás dentro de esa carpeta, viendo la ruta que sigue el sistema
+- Selecciona la carpeta en la que creaste tu archivo Hola Mundo (Python).
+- Comprueba que estás dentro de esa carpeta, viendo la ruta que sigue el sistema.
 ## 2. Configura tu nombre y email a nivel global. Comprueba que los tienes.
 - Inicia un repositorio en esa carpeta.
 - Averigua cómo ver el fichero oculto '.git'., renombra la rama principal a 'main'.
